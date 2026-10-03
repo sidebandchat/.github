@@ -1,4 +1,4 @@
-![Sideband — Your conversations, on your terms.](https://github.com/sidebandchat/.github/blob/trunk/banner.png)
+![Sideband — Your conversations, on your terms.](https://github.com/sidebandchat/.github/blob/master/banner.png)
 
 # Sideband
 
